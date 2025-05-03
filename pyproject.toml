@@ -1,0 +1,16 @@
+[project]
+name = "lab-2-homework"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "joblib>=1.4.2",
+    "pandas>=2.2.3",
+    "pgvector>=0.4.1",
+    "psycopg>=3.2.7",
+    "sentence-transformers>=4.1.0",
+    "sqlalchemy>=2.0.40",
+    "torch>=2.7.0",
+    "tqdm>=4.67.1",
+]
